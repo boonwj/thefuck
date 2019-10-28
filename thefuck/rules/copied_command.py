@@ -1,4 +1,5 @@
-"""Fixes common error when you copy and paste commands from documentation
+"""Fixes error for commands that are copied from documentations
+with leading $ in code blocks
 
 Example:
 > $ git clone https://github.com/nvbn/thefuck.git
